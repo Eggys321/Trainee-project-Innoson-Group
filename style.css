@@ -166,6 +166,16 @@ nav button {
     line-height: 1.6;
 }
 
+.learn-more-btn{
+    background-color: var(--ming-green);
+    padding: 10px 15px;
+    font-weight: 500;
+    font-size: 20px;
+    color: var(--white);
+    border: none;
+    border-radius: 5px;
+}
+
 @media (min-width:500px) and (max-width: 980px) {
   .container {
     padding: 16px 30px;
