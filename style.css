@@ -261,6 +261,8 @@ nav button {
   /* section-3 */
   .section-3a-div {
     flex-direction: column;
+    padding: 45px 20px;
+
   }
   .section-3a-div > img {
     min-width: 100%;
