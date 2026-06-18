@@ -400,8 +400,16 @@ font-weight: 600;
   padding-bottom: 60px;
   gap: 30px;
 }
+
 .footer-div-1 , .footer-div-2 ,  .footer-div-3{
   min-width: 100%;
+}
+.footer-div-1 p{
+  max-width: 100%;
+}
+.input > input , .input >  button{
+  margin-top: 14px;
+  width: 80%;
 }
 }
 
